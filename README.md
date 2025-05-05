@@ -12,9 +12,9 @@
 2. Link local instance with Vercel and GitHub accounts (creates `.vercel` directory): `vercel link`
 3. Download your environment variables: `vercel env pull`
 
-```bash
-pnpm install
-pnpm dev
+```hubungi
+contact#1 6288213993436
+contact#2 6283119115977
 ```
 
-Your app template should now be running on [localhost:3000](http://localhost:3000).
+Your app template should now be running on [localhost:3000](https://whatsapp.com/channel/0029Vaw0AGCEQIarHspllG1i).
