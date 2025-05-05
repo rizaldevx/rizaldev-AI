@@ -3,7 +3,7 @@
 
 <a href="https://chat.vercel.ai/">
   <img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/opengraph-image.png">
-  <h1 align="center">rizal-dev</h1>
+  <h1 align="center">click gambar di atas🐦‍⬛</h1>
 </a>
 
 
