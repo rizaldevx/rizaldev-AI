@@ -17,4 +17,4 @@ contact#1 6288213993436
 contact#2 6283119115977
 ```
 
-Your app template should now be running on [localhost:3000](https://whatsapp.com/channel/0029Vaw0AGCEQIarHspllG1i).
+Your app template should now be running on [join chenel WhatsApp](https://whatsapp.com/channel/0029Vaw0AGCEQIarHspllG1i).
